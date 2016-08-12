@@ -345,6 +345,7 @@ h2.heading {
   border-radius: 0 !important;
 }
 
+html.embedded .embed-module-container,
 html.not-embedded .embed-module-container {
   box-sizing: border-box;
   max-width:592px;
