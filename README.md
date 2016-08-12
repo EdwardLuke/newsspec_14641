@@ -26,3 +26,8 @@ The URL of the CSS file is added into the plugin admin panel, on the Hearken web
 Hearken uses an admin panel for configuring the styles, text and options of their plugins. 
 The embed code can be copied from the admin panel for the relevant plugin.
 
+## Deployment
+
+Copy the .inc and .css files to stage/live, and then FTP as usual. 
+Then add the include path for each (or your chosen) plugin to a CPS page as usual.
+The plugin(s) should then appear in the page, styled inthe BBC style.
