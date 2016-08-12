@@ -7,6 +7,8 @@ Ther are two plugins:
 Let users ask questions about the content on the page.
 The docs for configuring this module, using the Hearken admin panel are here: http://help.wearehearken.com/article/23-configure-curiosity-module
 
+Example: http://www.stage.bbc.co.uk/news/special/2016/newsspec_14641/curiosity.inc
+
 You can view this module directly at the Hearken website here: http://modules.wearehearken.com/wndr/curiosity_modules/249?pa=f
 
 ## Ranking/Voting Module
