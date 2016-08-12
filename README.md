@@ -1,6 +1,6 @@
 # newsspec_14641 - Hearken Plugins, in BBC style
 
-Ther are two plugins:
+There are two plugins:
 
 ## Curiosity Module
 
@@ -39,3 +39,5 @@ You can login to the admin panel here: https://wndr.wearehearken.com/identities/
 Copy the .inc and .css files to stage/live, and then FTP as usual. 
 Then add the include path for each (or your chosen) plugin to a CPS page as usual.
 The plugin(s) should then appear in the page, styled inthe BBC style.
+
+NOTE: We still do not have the markup needed for the voting module - whoever can login to the Hearken admin panel needs to grab it, and paste it into voting.inc.
