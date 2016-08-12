@@ -7,10 +7,14 @@ Ther are two plugins:
 Let users ask questions about the content on the page.
 The docs for configuring this module, using the Hearken admin panel are here: http://help.wearehearken.com/article/23-configure-curiosity-module
 
+You can view this module directly at the Hearken website here: http://modules.wearehearken.com/wndr/curiosity_modules/249?pa=f
+
 ## Ranking/Voting Module
 
 Users can vote on questions, choosing which ones they would prefer to see answered.
 The docs for configuring this module, using the Hearken admin panel are here: http://help.wearehearken.com/article/59-configure-voting-module
+
+You can view this module directly at the Hearken website here: [link needed]
 
 ## In this repo:
 
@@ -25,6 +29,8 @@ The URL of the CSS file is added into the plugin admin panel, on the Hearken web
 
 Hearken uses an admin panel for configuring the styles, text and options of their plugins. 
 The embed code can be copied from the admin panel for the relevant plugin.
+
+You can login to the admin panel here: https://wndr.wearehearken.com/identities/sign_in
 
 ## Deployment
 
