@@ -19,6 +19,7 @@ The inc files contain the embed markup required to add the plugins to the page.
 It is a small bit of markup, with pym.js being called to create the iframed plugin.
 
 This repo also contains the css file which is used to style both plugins.
+The URL of the CSS file is added into the plugin admin panel, on the Hearken website.
 
 ## Hearken Docs
 
