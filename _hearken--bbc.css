@@ -311,6 +311,7 @@ h2.center {
   padding-right: 0px !important;
   background-color: #ededed;
   border-radius: 0 !important;
+margin-top: 2px;
 }
 
 a {
@@ -361,4 +362,8 @@ html.not-embedded .embed-module-container {
   border-radius: 0 !important;
   padding-left: 0 !important;
   padding-right: 0 !important;
+}
+
+.powered-by {
+  display: none;
 }
