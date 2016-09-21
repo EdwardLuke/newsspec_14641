@@ -395,3 +395,7 @@ html.not-embedded .embed-module-container {
 .powered-by {
   display: none;
 }
+
+.embed-module-footer {
+  background-color: transparent;
+}
